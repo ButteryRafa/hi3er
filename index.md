@@ -14,12 +14,18 @@ For Butter's ER bug list, please refer to this message:
 https://discord.com/channels/418652140454674432/901268521181401108/961884765433237534
 
 **Things that got buffed in 5.6 ER:**
+
 __I will be updating this list as I go along__
+
 !!! note Eggs
     ER eggs have been reset. This is normal
+
 **ITS TYPE COUNTER WEATHER**
+
 IMG enemies have more Hp.
+
 Husk has more hp.
+
 Storm Templars lost some hp.
 Immortal blades were not nerfed.
 New mobsets now allow us to see more IMG mobs paired up with QUA enemies.
