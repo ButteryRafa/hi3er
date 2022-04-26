@@ -818,7 +818,7 @@ Angry man Kalpas fights us using the same rules we have to abide by. That’s ri
 ![Trauma](https://i.imgur.com/BnqV3PJ_d.webp?maxwidth=400&shape=thumb&fidelity=medium)
 ![Imprison](https://i.imgur.com/xbozKgT_d.webp?maxwidth=400&shape=thumb&fidelity=medium)
 ![HP loss buff](https://i.imgur.com/xlz4bf6_d.webp?maxwidth=400&shape=thumb&fidelity=medium)
-[Stomping speed](https://i.imgur.com/dQSusec_d.webp?maxwidth=400&shape=thumb&fidelity=medium)
+![Stomping speed](https://i.imgur.com/dQSusec_d.webp?maxwidth=400&shape=thumb&fidelity=medium)
 ![Iron body](https://i.imgur.com/tsP70Us_d.webp?maxwidth=400&shape=thumb&fidelity=medium)
 ![Falling stars](https://i.imgur.com/EaU9rP1_d.webp?maxwidth=400&shape=thumb&fidelity=medium)
 ![Frenzy](https://i.imgur.com/0uv0ROx_d.webp?maxwidth=400&shape=thumb&fidelity=medium)
