@@ -1,3 +1,4 @@
+# hi3er
 
 # Butter ER guide
 
@@ -184,21 +185,21 @@ Currently maintained by: Rafe#5610 (please pong me if there's any suggestions or
         + [->Eden - Signet of Gold (2nd Core)<-](#--eden---signet-of-gold--2nd-core----21)
     - [-> Difference between Kalpas1 and Kalpas2: <-](#---difference-between-kalpas1-and-kalpas2----)
     - [-> Difference between Su1 and Su2: <-](#---difference-between-su1-and-su2----)
-    + [Major typos](#major-typos)
-  * [**__Optimal core building in ER__:**](#----optimal-core-building-in-er-----)
-  * [**__When to visit shop__:**](#----when-to-visit-shop-----)
-  * [**__What is Coring__:**](#----what-is-coring-----)
-  * [**__What is signet trading__:**](#----what-is-signet-trading-----)
-  * [**__What buffs should I get from signets__:**](#----what-buffs-should-i-get-from-signets-----)
-  * [**__What is signet synergy__:**](#----what-is-signet-synergy-----)
-  * [**__Which support valks should I use__:**](#----which-support-valks-should-i-use-----)
-  * [**__What to prioritize upgrading at shop__**:](#----what-to-prioritize-upgrading-at-shop-----)
-  * [**__How should I be leveling up my Diverging Paths__**:](#----how-should-i-be-leveling-up-my-diverging-paths-----)
-  * [**__How to use sigils of rememberance effectively__**:](#----how-to-use-sigils-of-rememberance-effectively-----)
-  * [**__Do I have to always win doubles__**:](#----do-i-have-to-always-win-doubles-----)
-  * [**__Which end of the run boss to fight__**:](#----which-end-of-the-run-boss-to-fight-----)
-  * [**__Do valk ranks matter__**:](#----do-valk-ranks-matter-----)
-  * [**__What load buffs to pick for 5.6 first half in ER__**:](#----what-load-buffs-to-pick-for-56-first-half-in-er-----)
+- [Major typos](#major-typos)
+- [**__Optimal core building in ER__:**](#----optimal-core-building-in-er-----)
+- [**__When to visit shop__:**](#----when-to-visit-shop-----)
+- [**__What is Coring__:**](#----what-is-coring-----)
+- [**__What is signet trading__:**](#----what-is-signet-trading-----)
+- [**__What buffs should I get from signets__:**](#----what-buffs-should-i-get-from-signets-----)
+- [**__What is signet synergy__:**](#----what-is-signet-synergy-----)
+- [**__Which support valks should I use__:**](#----which-support-valks-should-i-use-----)
+- [**__What to prioritize upgrading at shop__**:](#----what-to-prioritize-upgrading-at-shop-----)
+- [**__How should I be leveling up my Diverging Paths__**:](#----how-should-i-be-leveling-up-my-diverging-paths-----)
+- [**__How to use sigils of rememberance effectively__**:](#----how-to-use-sigils-of-rememberance-effectively-----)
+- [**__Do I have to always win doubles__**:](#----do-i-have-to-always-win-doubles-----)
+- [**__Which end of the run boss to fight__**:](#----which-end-of-the-run-boss-to-fight-----)
+- [**__Do valk ranks matter__**:](#----do-valk-ranks-matter-----)
+- [**__What load buffs to pick for 5.6 first half in ER__**:](#----what-load-buffs-to-pick-for-56-first-half-in-er-----)
 - [Creditors and what they did:](#creditors-and-what-they-did-)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
