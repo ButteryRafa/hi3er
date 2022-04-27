@@ -8,6 +8,21 @@ Currently maintained by: Rafe#5610 (please pong me if there's any suggestions or
 
 
 [TOC2]
+# Table of Contents
+1. [Miscellaneous](#Miscellaneous)
+2. [Builds](#Builds)
+2.1 [Argent Knight: Artemis](#Argent Knight: Artemis)
+2.2 [Bright Knight: Excelsis](#Bright Knight: Excelsis)
+2.3 [Dea Anchora](#Dea Anchora)
+2.4 [Fallen Rosemary](#Fallen Rosemary Updated (6D/7D Husk))
+2.5 [Herrscher of Flamescion](# Herrscher of Flamescion Updated (6D/7D HoDom))
+2.6 [Herrscher of Reason](# Herrscher of Reason)
+2.6.1 [HoR Evade](## ->Evade<-)
+2.6.2 [HoR Ult](## ->Ult<-)
+2.7 [# Herrscher of Sentience](# Herrscher of Sentience Updated (6D/7D Husk))
+2.7.1 [HoS Stars Build](## -> Stars Build <-)
+2.7.2 [HoS Ego (Summoned Entities) Build](## -> Ego (Summoned Entities) Build <-)
+2.7.3 [HoS Daybreak Build](## -> Daybreak Build <-)
 
 
 
@@ -123,11 +138,8 @@ No = Don't get this.
 > For more information on ER like how to signet build or known bugs, click [here](https://rentry.co/thebuttererguide). Pretty useful if  say so myself
 
 
-
-
-**Table of Contents (In alphebetical order):**
-[TOC]
-
+***
+# Builds
 # Argent Knight: Artemis
 
 Time | Sigils | Support 1 | Support 2
