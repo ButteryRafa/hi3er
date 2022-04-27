@@ -1,4 +1,3 @@
-# hi3er
 
 # Butter ER guide
 
@@ -138,13 +137,13 @@ Mid | Golden Goblet/Light as a Leaf | AE | LE/HB
 Late | Home Lost/ | AE | HB
 
 ### ->Elysia - Signet of ■■<-
-Signet | Priority
-------|:----:
-**Blessing of Frost Scythe**: Tap [ATK] after evasion to hurl Frost Guisarmier which spins for 5s, gathers enemies nearby, and deal 5400% ATK of Ice DMG. CD: 10s | 2nd
-**Blessing of Stellar Trials**: Inflicting Ice Cell also creates a Frost Ring centered around the target lasting 2s which deals 480% ATK of Ice DMG per 0.3s to enemies nearby | 1st
-**Blessing of Winter Harvest**: Enemies recovering from Ice Cell are inflicted with 1 stack of Hypothermia | **Start**
-**Blessing of Cold Moon**: Inflicting Ice Cell also creates a self-centered Frost Ring lasting 6s which deals 180% ATK of Ice DMG per 0.3s to enemies nearby | Optional
-**Blessing of Uranian Mirror**: Burst mode consumes 100% more SP and Valkyrie deals 90% bonus Total DMG in burst mode | Filler
+|Signet | Priority|
+|------|:----:|
+|**Blessing of Frost Scythe**: Tap [ATK] after evasion to hurl Frost Guisarmier which spins for 5s, gathers enemies nearby, and deal 5400% ATK of Ice DMG. CD: 10s | 2nd|
+|**Blessing of Stellar Trials**: Inflicting Ice Cell also creates a Frost Ring centered around the target lasting 2s which deals 480% ATK of Ice DMG per 0.3s to enemies nearby | 1st|
+|**Blessing of Winter Harvest**: Enemies recovering from Ice Cell are inflicted with 1 stack of Hypothermia | **Start**|
+|**Blessing of Cold Moon**: Inflicting Ice Cell also creates a self-centered Frost Ring lasting 6s which deals 180% ATK of Ice DMG per 0.3s to enemies nearby | Optional|
+|**Blessing of Uranian Mirror**: Burst mode consumes 100% more SP and Valkyrie deals 90% bonus Total DMG in burst mode | Filler|
 
 ### ->Mobius - Signet of Infinity (1st Core) <-
 Signets | Priority
@@ -1892,39 +1891,23 @@ ESoDC (L): Enhanced Signet of Desired Choice (letter to differentiate what core 
 
 Single core building:
 
-F1: +1 Elysia 
-
-F2: +1 SoDC (A)
-
-F3: +1 SoDC (A)
-
-F4: +1 SoDC & Core (A) / +2 SoDC & Core (A)
-
-F5: +1 ESoDC (A)
-
-F6: +1 SoDC (B)
-
-F7: +1 SoDC (B) / +2 SoDC & Core (B)
-
-F8: +1 SoDC (B) & Core / +1 ESoDC (B)
-
-F9: +1 ESoDC (B) / +1 SoDC (C)
-
-F10 Shop: buys +1 SoDC (C) (this is treated as a +0) upgrades +2 ~ +4 / upgrades +3 ~ +6
-
-F11: +1 SoDC (C) / +2 SoDC & Core (C) 
-
-F12: +1 SoDC & Core (C) / +1 ESoDC (C)
-
-F13: +1 ESoDC (C) / +1 ESoDC (A or B or C)
-
-F14 Shop: upgrades +1 ~ +2 / upgrades +1 ~ +2
-
-F15: +1 ESoDC (A or B or C) / +2 ESoDC (A or B or C)
-
-F16: nothing
-
-F17: nothing
+- F1: +1 Elysia 
+- F2: +1 SoDC (A)
+- F3: +1 SoDC (A)
+- F4: +1 SoDC & Core (A) / +2 SoDC & Core (A)
+- F5: +1 ESoDC (A)
+- F6: +1 SoDC (B)
+- F7: +1 SoDC (B) / +2 SoDC & Core (B)
+- F8: +1 SoDC (B) & Core / +1 ESoDC (B)
+- F9: +1 ESoDC (B) / +1 SoDC (C)
+- F10 Shop: buys +1 SoDC (C) (this is treated as a +0) upgrades +2 ~ +4 / upgrades +3 ~ +6
+- F11: +1 SoDC (C) / +2 SoDC & Core (C) 
+- F12: +1 SoDC & Core (C) / +1 ESoDC (C)
+- F13: +1 ESoDC (C) / +1 ESoDC (A or B or C)
+- F14 Shop: upgrades +1 ~ +2 / upgrades +1 ~ +2
+- F15: +1 ESoDC (A or B or C) / +2 ESoDC (A or B or C)
+- F16: nothing
+- F17: nothing
 
 Worst total gain: 16 +3
 
@@ -1938,39 +1921,23 @@ Average of range: 18 +5 (we round down)
 
 Multi core building: 
 
-F1: +1 Elysia
-
-F2: +1 SoDC (A)
-
-F3: +1 SoDC (A)
-
-F4: +1 SoDC (B) / +2 SoDC (B)
-
-F5: +1 SoDC (A) & Core / +1 SoDC (B) & Core
-
-F6: +1 SoDC (B) / +1 SoDC (A)
-
-F7: +1 SoDC (B) & Core; +2 SoDC (B) & core / +1 SoDC (A) & core; +2 SoDC (A) & core
-
-F8: +1 SoDC (C)
-
-F9: +1 SoDC (C) 
-
-F10 Shop: upgrades +3 ~ +6
-
-F11: +1 SoDC (C) & core / +2 SoDC & core 
-
-F12: +1 ESoDC (A or B or C)
-
-F13: +1 ESoDC (A or B or C)
-
-F14 Shop: upgrades +1 ~ +2
-
-F15: +1 ESoDC (A or B or C) / +2 ESoDC (A or B or C)
-
-F16: nothing
-
-F17: nothing 
+- F1: +1 Elysia
+- F2: +1 SoDC (A)
+- F3: +1 SoDC (A)
+- F4: +1 SoDC (B) / +2 SoDC (B)
+- F5: +1 SoDC (A) & Core / +1 SoDC (B) & Core
+- F6: +1 SoDC (B) / +1 SoDC (A)
+- F7: +1 SoDC (B) & Core; +2 SoDC (B) & core / +1 SoDC (A) & core; +2 SoDC (A) & core
+- F8: +1 SoDC (C)
+- F9: +1 SoDC (C) 
+- F10 Shop: upgrades +3 ~ +6
+- F11: +1 SoDC (C) & core / +2 SoDC & core 
+- F12: +1 ESoDC (A or B or C)
+- F13: +1 ESoDC (A or B or C)
+- F14 Shop: upgrades +1 ~ +2
+- F15: +1 ESoDC (A or B or C) / +2 ESoDC (A or B or C)
+- F16: nothing
+- F17: nothing 
 
 Worst total gain: 16 +4
 
@@ -2693,28 +2660,30 @@ Max Sp plus is always great if you are going to use eden.
 ***
 
 # Creditors and what they did:
-biribiri#3681: original Rentry person did build testing and theory crafting
-Butter#2252: provided data
-boba#8849: helped format stuff correctly and tested builds
-Beefyeggroll#0001: helped test builds and was in beta
-localhousee#7786: morale support (really didn’t work out)
-VampyHime#9207: was a beta tester and translator for beta
-Camelva#7085: helped with build testing and data gathering
-Rafe#5610: helped rekindled the GC again and is also a rentry editor
-Starlight#9581: ER help section with story progression
-FrediSK#5056: helped with kalpas boss
-Korath#5931: kalpas boss help
-Kaga#1780 (Citrus): helped get builds out there for people to see, theory crafter, tester and beta tester. They are also a youtuber
+- biribiri#3681: original Rentry person did build testing and theory crafting
+- Butter#2252: provided data
+- boba#8849: helped format stuff correctly and tested builds
+- Beefyeggroll#0001: helped test builds and was in beta
+- localhousee#7786: morale support (really didn’t work out)
+- VampyHime#9207: was a beta tester and translator for beta
+- Camelva#7085: helped with build testing and data gathering
+- Rafe#5610: helped rekindled the GC again and is also a rentry editor
+- Starlight#9581: ER help section with story progression
+- FrediSK#5056: helped with kalpas boss
+- Korath#5931: kalpas boss help
+- Kaga#1780 (Citrus): helped get builds out there for people to see, theory crafter, tester and beta tester. They are also a youtuber
 
 **Unnamed people who helped:**
-KenTJY#3888: theory crafter and tester 
-Zithr0#9800: theory crafter and tester
-BananaCannon#3312: tester 
-ignihyde#4498: tester
-Fujinee#3002: tester
-Topperoonie#0484: tester
-SinsOfSeven#3164 (TencentDimepiece): tester and fellow guide maker  [Signet list here](https://rentry.org/elysian_realm_list)
-ww#1234 (Imy): inspiration and gave the green light to make guide
+- KenTJY#3888: theory crafter and tester 
+- Zithr0#9800: theory crafter and tester
+- BananaCannon#3312: tester 
+- ignihyde#4498: tester
+- Fujinee#3002: tester
+- Topperoonie#0484: tester
+- SinsOfSeven#3164 (TencentDimepiece): tester and fellow guide maker  [Signet list here](https://rentry.org/elysian_realm_list)
+- ww#1234 (Imy): inspiration and gave the green light to make guide
+
 Others 
 
-Zero Blade#5805: avoids it as his bad reputation is to be kept untouched
+- Zero Blade#5805: avoids it as his bad reputation is to be kept untouched
+
